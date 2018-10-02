@@ -1,0 +1,5 @@
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ParametrizideThreadDemo\bin\Debug\ParametrizideThreadDemo.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ParametrizideThreadDemo\bin\Debug\ParametrizideThreadDemo.exe
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ParametrizideThreadDemo\bin\Debug\ParametrizideThreadDemo.pdb
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ParametrizideThreadDemo\obj\Debug\ParametrizideThreadDemo.exe
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ParametrizideThreadDemo\obj\Debug\ParametrizideThreadDemo.pdb

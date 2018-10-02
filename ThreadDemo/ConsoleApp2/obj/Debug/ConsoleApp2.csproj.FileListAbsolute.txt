@@ -1,0 +1,5 @@
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

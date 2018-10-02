@@ -1,0 +1,6 @@
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csprojResolveAssemblyReference.cache
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+c:\users\teather\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb
